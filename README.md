@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨🏻‍💻 Nathan Matiotto
 
-<!--
-**Mariott0/Mariott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Dev Front-end`**
 
-Here are some ideas to get you started:
+My name is Nathan Matiotto, I'm 22 years old, and I currently live in the western region of Paraná, Brazil. I'm passionate about technology and constantly seeking to learn and evolve in this dynamic world of programming. I'm currently studying Software Engineering, improving my skills to contribute to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🤖 **Languages ​​and Technologies**
+<div>
+  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</div>
+
+<br/><br/>
+
+---
+
+## 📊 **Statistics**
+<div align="center">
+  <img height="177" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Mariott0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"/>
+  <img height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariott0&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=1800"/>
+</div>
+
+---
+
+## 🐍 **Contributions**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mariott0/Mariott0/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mariott0/Mariott0/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
