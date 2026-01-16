@@ -45,14 +45,6 @@ In addition to QA, I also develop **front-end and mobile applications**, which g
 
 ---
 
-## 📊 GitHub Statistics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mariott0&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariott0&theme=tokyonight&layout=compact"/>
-</div>
-
----
-
 ## 🐍 Contributions
 <div align="center">
   <picture>
