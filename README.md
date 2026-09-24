@@ -33,17 +33,17 @@ Comecei minha trajetória próximo aos usuários, trabalhando com suporte técni
 
 ## Experiência
 
-**Analista de Testes — Maxicon Sistemas**  
+**Analista de Testes — Maxicon Sistemas**<br>
 `Jun 2024 — atual`
 
 Testes web, mobile, APIs e sistemas legados, automações, análise de incidentes, relatórios gerenciais e homologações com usuários-chave.
 
-**Técnico de TI — Escritório Líder**  
+**Técnico de TI — Escritório Líder**<br>
 `Mai 2021 — Jun 2024`
 
 Suporte técnico, resolução de incidentes e atendimento interno — a base para compreender a operação, os usuários e o impacto real de cada sistema.
 
-**Engenharia de Software — Centro Universitário FAG**  
+**Engenharia de Software — Centro Universitário FAG**<br>
 Formação com foco em desenvolvimento, arquitetura, bancos de dados e boas práticas aplicadas à construção de soluções digitais.
 
 ## Tecnologias e ferramentas
