@@ -2,13 +2,17 @@
 
 # Nathan Mariotto
 
-**Qualidade de Software (QA) · Automação de Testes · Desenvolvimento de Software**
+### Quality Assurance · Automação · Engenharia de Software
 
-Estudante de Engenharia de Software com atuação em qualidade de sistemas corporativos.
+**Boas ideias. Código melhor. Qualidade sempre.**
 
-[LinkedIn](https://www.linkedin.com/in/nathanmariotto/) · [GitHub](https://github.com/Mariott0)
+Analista de QA que conecta testes, automação e desenvolvimento para construir experiências que funcionam de verdade.
 
-**Português (Brasil)** | [English](./README.en.md)
+[![Portfólio](https://img.shields.io/badge/Portfólio-nathanmariotto.com.br-D8FF36?style=for-the-badge&logo=googlechrome&logoColor=151515)](https://nathanmariotto.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan_Mariotto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmariotto)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariott0-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mariott0)
+
+📍 Toledo, Paraná — Brasil
 
 </div>
 
@@ -16,49 +20,73 @@ Estudante de Engenharia de Software com atuação em qualidade de sistemas corpo
 
 ## Sobre mim
 
-Sou profissional de **Quality Assurance (QA)** e estudante de **Engenharia de Software**, com experiência em ambientes corporativos e sistemas complexos. Trabalho com planejamento, execução e documentação de testes, validação de APIs e automação, contribuindo para entregas mais confiáveis e alinhadas às necessidades do negócio.
+Atuo com **Quality Assurance** em sistemas web, mobile, APIs e ambientes corporativos. Meu trabalho combina entendimento do negócio, investigação técnica e comunicação clara para transformar riscos em entregas mais confiáveis.
 
-Também desenvolvo aplicações web e mobile. Essa vivência me ajuda a compreender o comportamento dos sistemas, investigar problemas e colaborar com as equipes de desenvolvimento e produto.
+Comecei minha trajetória próximo aos usuários, trabalhando com suporte técnico e resolução de incidentes. Hoje, levo essa visão para os testes, o código e as decisões de produto — da primeira ideia à última validação.
 
-Meu foco é unir **qualidade, visão técnica e entendimento do negócio** para melhorar tanto o software quanto os processos envolvidos em sua entrega.
+- 🔎 Testes funcionais, regressivos, exploratórios, automatizados e de estresse
+- 🤖 Automação de testes e processos repetitivos
+- 🔌 Validação de APIs REST, integrações e regras de negócio
+- 📝 Evidências, documentação e rastreabilidade de falhas
+- 🤝 Colaboração com desenvolvimento, produto e usuários-chave
+- 💻 Desenvolvimento de aplicações web e mobile
 
-## Atuação
+## Experiência
 
-- **Estratégia e planejamento de testes:** definição de cenários, elaboração de casos de teste e organização da execução.
-- **Testes manuais e automatizados:** validação de funcionalidades e automação de verificações.
-- **Testes de APIs REST:** análise de requisições, respostas e comportamento das integrações.
-- **Documentação de qualidade:** registro de evidências e descrição clara de problemas para apoiar sua análise e correção.
-- **Melhoria de processos:** automação de tarefas e otimização de rotinas com Power Automate e VBA.
-- **Colaboração em equipes ágeis:** atuação junto a desenvolvimento e produto em contextos de Scrum e Kanban.
+**Analista de Testes — Maxicon Sistemas**  
+`Jun 2024 — atual`
+
+Testes web, mobile, APIs e sistemas legados, automações, análise de incidentes, relatórios gerenciais e homologações com usuários-chave.
+
+**Técnico de TI — Escritório Líder**  
+`Mai 2021 — Jun 2024`
+
+Suporte técnico, resolução de incidentes e atendimento interno — a base para compreender a operação, os usuários e o impacto real de cada sistema.
+
+**Engenharia de Software — Centro Universitário FAG**  
+Formação com foco em desenvolvimento, arquitetura, bancos de dados e boas práticas aplicadas à construção de soluções digitais.
 
 ## Tecnologias e ferramentas
 
-| Área | Tecnologias e ferramentas |
+| Área | Tecnologias |
 | --- | --- |
-| Testes e APIs | Selenium, Postman, Insomnia, APIs REST |
-| Linguagens | JavaScript, TypeScript, SQL, PL/SQL, VBA |
-| Front-end e mobile | Angular, React Native |
-| Back-end e bancos de dados | Node.js, PostgreSQL, Oracle |
-| Sistemas corporativos | Oracle Forms, Oracle APEX |
-| Automação de processos | Power Automate, macros VBA |
-| Desenvolvimento e ambiente | Git, GitHub, Docker, Docker Compose |
+| **Qualidade e automação** | Selenium, Postman, Insomnia, Power Automate, VBA |
+| **Linguagens** | JavaScript, TypeScript, SQL, PL/SQL, Python |
+| **Web e mobile** | Angular, React Native, Node.js, NestJS |
+| **Dados e sistemas** | PostgreSQL, Oracle, Oracle Forms, Oracle APEX |
+| **Engenharia** | Git, GitHub, Docker, APIs REST, Scrum, Kanban |
 
-## Como trabalho
+## Projetos em destaque
 
-- Busco entender as regras de negócio antes de definir o que precisa ser validado.
-- Documento testes e resultados para facilitar a comunicação e o acompanhamento das entregas.
-- Uso a automação para reduzir tarefas repetitivas e tornar as verificações mais consistentes.
-- Conecto conhecimentos de desenvolvimento e QA para apoiar a investigação de falhas.
+### 🎲 [Jornada do Conhecimento](https://nathanmariotto.com.br/jornada/)
+
+Jogo de tabuleiro digital que conecta gamificação, conhecimento e acompanhamento dos alunos. Projeto de conclusão de curso desenvolvido com Godot.
+
+### 🚀 [Space War](https://nathanmariotto.com.br/spacewar/)
+
+Jogo espacial executado diretamente no navegador, criado para explorar lógica, interação e desenvolvimento com JavaScript e Canvas.
+
+### 🧩 Outras construções
+
+Também desenvolvo soluções como sistemas de gestão, módulos de agendamento, aplicações mobile, automações e projetos de análise de dados. Conheça os detalhes no meu [portfólio](https://nathanmariotto.com.br) ou explore meus [repositórios](https://github.com/Mariott0?tab=repositories).
 
 ## Contribuições
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mariott0/Mariott0/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Animação do histórico de contribuições de Nathan Mariotto no GitHub" src="https://raw.githubusercontent.com/Mariott0/Mariott0/output/github-contribution-grid-snake.svg">
+    <img alt="Animação do histórico de contribuições de Nathan Mariotto" src="https://raw.githubusercontent.com/Mariott0/Mariott0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-## Contato
+---
 
-Para conversar sobre qualidade de software, automação e desenvolvimento, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/nathanmariotto/).
+<div align="center">
+
+### Vamos construir algo com propósito?
+
+Uma oportunidade, uma ideia ou uma troca de conhecimento pode começar com uma boa conversa.
+
+[**Portfólio**](https://nathanmariotto.com.br) · [**LinkedIn**](https://www.linkedin.com/in/nathanmariotto) · [**GitHub**](https://github.com/Mariott0)
+
+</div>
